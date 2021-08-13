@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Navjot-Singh-Virk
 - 👀 I’m learning different programming languages as a hobby.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on  - well I'm still learning, not sure if I'll be able to conribute anything yet.
+- 💞️ I’m looking to collaborate on  - well I'm still learning, not sure if I'll be able to contribute anything yet.
 - 📫 How to reach me - not sure why you'd want to reach me as of now.
 
 <!---
